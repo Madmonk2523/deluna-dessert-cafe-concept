@@ -18,3 +18,7 @@ Visible review/proposal labels were removed at the user’s request. The noindex
 ## Verification
 
 HTML references, image uniqueness, local assets, contact links and deployment configuration checked. Deluna menu filter logic was checked with a simulated DOM. Browser layout QA was unavailable in the managed environment, so review phone and desktop layouts before showing the prospect.
+
+## Latest improvements
+
+Expanded visitor content, Google review provenance, responsive navigation and a Google location map. Review content is a cited snapshot, not a live review feed. See SOURCES.md.
